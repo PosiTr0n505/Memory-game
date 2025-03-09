@@ -2,6 +2,8 @@
 
 A simple **Memory Card Matching Game** built with **HTML, CSS, and JavaScript**. Flip the cards, find matching pairs, and test your memory skills!
 
+![Matching game](https://github.com/PosiTr0n505/Memory-game/blob/main/Matching.png)
+
 ## 🚀 Features
 - 🎴 **Dynamic Card Grid** – The game board is generated dynamically with shuffled cards.
 - 🖱 **Click to Flip** – Players reveal cards by clicking on them.
